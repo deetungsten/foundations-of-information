@@ -1,0 +1,32 @@
+01-power/power.md \
+02-peril/peril.md \
+03-information/information.md \
+04-data/data.md
+05-technology/technology.md \
+06-systems/systems.md \
+07-seeking/seeking.md \
+08-hiding/hiding.md \
+09-managing/managing.md \
+10-regulating/regulating.md \
+11-designing/designing.md \
+12-social/social.md \
+13-science/science.md \
+14-automation/automation.md \
+15-health/health.md \
+16-democracy/democracy.md \
+17-sustainability/sustainability.md \
+18-industry/industry.md \
+
+
+
+
+
+
+
+
+
+
+
+
+
+

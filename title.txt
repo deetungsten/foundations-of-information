@@ -1,0 +1,6 @@
+---
+title: Foundations of Information
+author: Amy J. Ko, Ph.D.
+rights:  Creative Commons Non-Commercial Share Alike 3.0
+language: en-US
+...
